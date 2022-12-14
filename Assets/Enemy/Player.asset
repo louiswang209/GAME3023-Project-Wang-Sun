@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6169458809c5fe3408b456caea9c072d, type: 3}
+  m_Name: Player
+  m_EditorClassIdentifier: 
+  icon: {fileID: 1297899666, guid: 1e3ff3d0c8b465049b2f9754c1fc7dff, type: 3}
+  Health: 50
+  Attack: 10
+  Defence: 2
+  skill1: {fileID: 11400000, guid: e5bfcae9091d9bc4e93c55dfd1f7d3c4, type: 2}
+  skill2: {fileID: 11400000, guid: 76c61634791fb774aa73941b9b4ffbdd, type: 2}
+  skill3: {fileID: 11400000, guid: 4557d7d1a50110d428a9301445af47dc, type: 2}
+  skill4: {fileID: 11400000, guid: f7323cf3f6481bb43ae64c6118b53fe5, type: 2}
